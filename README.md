@@ -17,7 +17,7 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.yangwuan55:Rxpermissions:0.13.1'
+    implementation 'com.github.yangwuan55:Rxpermissions:0.13.2'
 }
 ```
 
